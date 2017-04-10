@@ -1,0 +1,24 @@
+D:\Documents\Visual Studio Projects\NCHLPositions\NCHLPositions\bin\Debug\NCHLPositions.exe.config
+D:\Documents\Visual Studio Projects\NCHLPositions\NCHLPositions\obj\Debug\NCHLPositions.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio Projects\NCHLPositions\NCHLPositions\bin\Debug\NCHLPositions.exe
+D:\Documents\Visual Studio Projects\NCHLPositions\NCHLPositions\bin\Debug\NCHLPositions.pdb
+D:\Documents\Visual Studio Projects\NCHLPositions\NCHLPositions\obj\Debug\NCHLPositions.exe
+D:\Documents\Visual Studio Projects\NCHLPositions\NCHLPositions\obj\Debug\NCHLPositions.pdb
+O:\Prog\NCHLPositions\NCHLPositions\bin\Debug\NCHLPositions.exe.config
+O:\Prog\NCHLPositions\NCHLPositions\obj\Debug\NCHLPositions.exe
+O:\Prog\NCHLPositions\NCHLPositions\obj\Debug\NCHLPositions.pdb
+O:\Prog\NCHLPositions\NCHLPositions\obj\Debug\NCHLPositions.csprojResolveAssemblyReference.cache
+O:\Prog\NCHLPositions\NCHLPositions\bin\Debug\NCHLPositions.exe
+O:\Prog\NCHLPositions\NCHLPositions\bin\Debug\NCHLPositions.pdb
+N:\Prog\NCHLPositions\NCHLPositions\bin\Debug\NCHLPositions.exe.config
+N:\Prog\NCHLPositions\NCHLPositions\obj\Debug\NCHLPositions.exe
+N:\Prog\NCHLPositions\NCHLPositions\obj\Debug\NCHLPositions.pdb
+N:\Prog\NCHLPositions\NCHLPositions\bin\Debug\NCHLPositions.exe
+N:\Prog\NCHLPositions\NCHLPositions\bin\Debug\NCHLPositions.pdb
+N:\Prog\NCHLPositions\NCHLPositions\obj\Debug\NCHLPositions.csprojResolveAssemblyReference.cache
+E:\DOCS\prog\NCHLPositions\NCHLPositions\bin\Debug\NCHLPositions.exe.config
+E:\DOCS\prog\NCHLPositions\NCHLPositions\obj\Debug\NCHLPositions.exe
+E:\DOCS\prog\NCHLPositions\NCHLPositions\obj\Debug\NCHLPositions.pdb
+E:\DOCS\prog\NCHLPositions\NCHLPositions\bin\Debug\NCHLPositions.exe
+E:\DOCS\prog\NCHLPositions\NCHLPositions\bin\Debug\NCHLPositions.pdb
+E:\DOCS\prog\NCHLPositions\NCHLPositions\obj\Debug\NCHLPositions.csprojResolveAssemblyReference.cache
