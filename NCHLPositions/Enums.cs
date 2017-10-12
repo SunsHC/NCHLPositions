@@ -67,7 +67,7 @@ namespace NCHLPositions
         TB,
         Tor,
         Van,
-        //VGK,
+        VGK,
         Wsh,
         Wpg
     }
