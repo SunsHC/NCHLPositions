@@ -1,4 +1,4 @@
-56 joueurs jouent dans une position différente selon le Hockey News:
+54 joueurs jouent dans une position différente selon le Hockey News:
 
 ***Ana***
 [BUC] Isac Lundestrom NCHL: L Hockey News: C
@@ -9,70 +9,70 @@
 [SUN] Alex Galchenyuk NCHL: C Hockey News: L
 
 ***Bos***
-[SUN] Jakob Forsbacka Karlsson NCHL: C Hockey News: R
+[REB] Charlie Coyle NCHL: R Hockey News: C
 [RAM] Anders Bjork NCHL: L Hockey News: R
 [SUN] Danton Heinen NCHL: R Hockey News: L
-[SUN] Ryan Donato NCHL: C Hockey News: L
 
 ***Buf***
 [PAC] Alexander Nylander NCHL: L Hockey News: R
-[SUN] Tage Thompson NCHL: C Hockey News: L
+[SUN] Tage Thompson NCHL: L Hockey News: R
 
 ***Cgy***
+[BUC] Elias Lindholm NCHL: R Hockey News: C
 [BUC] Spencer Foo NCHL: L Hockey News: R
 [RAM] Dillon Dube NCHL: C Hockey News: L
 
 ***Car***
 [BUC] Sebastian Aho NCHL: L Hockey News: C
-[PAC] Warren Foegele NCHL: L Hockey News: R
 [SUN] Andrei Svechnikov NCHL: R Hockey News: L
 
 ***Chi***
-[BUC] Dylan Sikura NCHL: C Hockey News: R
 [REB] Brendan Perlini NCHL: L Hockey News: R
-[RAM] Alex DeBrincat NCHL: R Hockey News: L
+[BUC] Dylan Sikura NCHL: C Hockey News: R
+[SUN] Alex DeBrincat NCHL: R Hockey News: L
 
 ***Col***
-[RAM] Alexander Kerfoot NCHL: L Hockey News: C
 [BUC] Vladislav Kamenev NCHL: L Hockey News: C
-[BUC] Sven Andrighetto NCHL: L Hockey News: R
-[REB] Tyson Jost NCHL: C Hockey News: L
+[RAM] Alexander Kerfoot NCHL: L Hockey News: R
 
-***CBJ***
-[PAC] Anthony Duclair NCHL: R Hockey News: L
+***Dal***
+[REB] Jason Dickinson NCHL: C Hockey News: L
+[BUC] Valeri Nichushkin NCHL: R Hockey News: L
+[SUN] Denis Gurianov NCHL: R Hockey News: L
 
 ***Det***
-[PAC] Tyler Bertuzzi NCHL: L Hockey News: R
+[RAM] Andreas Athanasiou NCHL: R Hockey News: C
+[BUC] Michael Rasmussen NCHL: L Hockey News: C
 [REB] Matt Puempel NCHL: L Hockey News: R
-[RAM] Andreas Athanasiou NCHL: R Hockey News: L
+[REB] Thomas Vanek NCHL: L Hockey News: R
+
+***Edm***
+[SUN] Leon Draisaitl NCHL: C Hockey News: L
 
 ***Fla***
-[BUC] Mike Hoffman NCHL: L Hockey News: R
 [RAM] Jayce Hawryluk NCHL: C Hockey News: R
 
 ***LA***
+[REB] Ilya Kovalchuk NCHL: L Hockey News: R
 [RAM] Alex Iafallo NCHL: R Hockey News: L
 [SUN] Nikita Scherbak NCHL: R Hockey News: L
 
 ***Min***
-[REB] Charlie Coyle NCHL: R Hockey News: C
-[SUN] Nino Niederreiter NCHL: L Hockey News: R
+[REB] Kevin Fiala NCHL: L Hockey News: R
 
 ***Mtl***
-[PAC] Max Domi NCHL: L Hockey News: C
 [RAM] Michael McCarron NCHL: R Hockey News: C
-[BUC] Jonathan Drouin NCHL: L Hockey News: R
 
-***NYR***
-[BUC] Jimmy Vesey NCHL: L Hockey News: R
-[RAM] Filip Chytil NCHL: C Hockey News: L
+***Nas***
+[SUN] Mikael Granlund NCHL: R Hockey News: L
 
-***Ott***
-[RAM] Colin White NCHL: C Hockey News: L
+***NJ***
+[REB] Michael McLeod NCHL: C Hockey News: R
+
+***NYI***
+[RAM] Josh Bailey NCHL: R Hockey News: L
 
 ***Phi***
-[PAC] Claude Giroux NCHL: L Hockey News: C
-[RAM] Wayne Simmonds NCHL: R Hockey News: L
 [REB] Matthew Strome NCHL: R Hockey News: L
 
 ***Pit***
@@ -80,24 +80,26 @@
 
 ***SJ***
 [SUN] Tomas Hertl NCHL: L Hockey News: C
-[RAM] Timo Meier NCHL: L Hockey News: R
+[REB] Kevin Labanc NCHL: L Hockey News: R
+[PAC] Joonas Donskoi NCHL: R Hockey News: L
 
 ***StL***
+[REB] Robert Thomas NCHL: R Hockey News: C
 [BUC] Ivan Barbashev NCHL: L Hockey News: C
 [PAC] David Perron NCHL: L Hockey News: R
-[REB] Robert Thomas NCHL: C Hockey News: R
+[PAC] Alexander Steen NCHL: L Hockey News: R
 [PAC] Klim Kostin NCHL: L Hockey News: R
+[REB] Brayden Schenn NCHL: C Hockey News: L
 
 ***TB***
-[PAC] Steven Stamkos NCHL: R Hockey News: C
+[BUC] Tyler Johnson NCHL: L Hockey News: R
 [SUN] J.T. Miller NCHL: L Hockey News: R
-[BUC] Tyler Johnson NCHL: R Hockey News: L
+[SUN] Yanni Gourde NCHL: R Hockey News: L
 [PAC] Alexander Volkov NCHL: R Hockey News: L
+
+***Tor***
+[REB] Nic Petan NCHL: L Hockey News: C
 
 ***Van***
 [RAM] Tyler Motte NCHL: L Hockey News: R
 [RAM] Nikolay Goldobin NCHL: R Hockey News: L
-
-***Wpg***
-[SUN] Jack Roslovic NCHL: R Hockey News: C
-[REB] Brendan Lemieux NCHL: L Hockey News: R
